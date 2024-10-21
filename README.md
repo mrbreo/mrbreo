@@ -1,8 +1,5 @@
-![gitartwork](gitartwork.svg)
+
 # <h2 align="center"> 💫  About Me  💫 </h3>
+As a highly certified Software Engineer with over a decade of hands-on experience in AI/ML, Full Stack development, and Blockchain technologies, particularly in Bittensor, I am proficient in a wide array of programming languages, frameworks, and tools. <br/> My focus is on delivering scalable, efficient, and high-quality solutions, with a meticulous attention to detail and a commitment to excellence. I possess strong problem-solving skills and have a passion for staying current with the latest advancements in technology. My expertise and work ethic make me a go-to resource in the field.
 
-Highly certified **<u>AI/ML && Full-Stack Engineer</u>** who is well-versed in **<u>Blockchain</u>** domain, especially **<u>Bittensor</u>**, with over 10 years of hands-on experience. Adept at utilizing a wide range of programming languages, frameworks, and tools to deliver high-quality, scalable, and efficient solutions. Always emphasize attention to detail and strive for perfection by doing my best. Possess strong problem-solving abilities and a passion for staying updated with the latest technological advancements. 
-Possess highly experienced skills in these areas and an active work ethic that positions me as the go-to person in this field. <br>
-
-
-My main goal is to deliver high-quality web applications with integrated **<u>AI solutions</u>** and **<u>Blockchain</u>** technology that meet client objectives within the deadline.
+My primary objective is to deliver top-tier web applications that seamlessly integrate AI solutions and Blockchain technology, always ensuring that client goals are met within project timelines.
