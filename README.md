@@ -1,4 +1,5 @@
-Hi there 👋 <br/>
+Hi there 👋
+
 The future is a decentralized world with stunning interfaces.
 
 <sub>
