@@ -1,7 +1,5 @@
-Hi there 👋<br>
-<sub>
+Hi there 👋 <br/>
 The future is a decentralized world with stunning interfaces.
-</sub>
 
 <sub>
 - Software Architect<br/>  
