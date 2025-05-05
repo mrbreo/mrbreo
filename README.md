@@ -6,6 +6,7 @@ I’m deeply passionate about shaping the future of technology, where decentrali
 📌 About Me
 - 🤖 Contributed to **Roko Network** - Decentralized AI Robotics
 - 🌐 Enthusiast and active supporter of **Bittensor Network** - Decentralized AI/ML Network
+- 🧠 Strong advocate and lifelong learner in the pursuit of **Artificial General Intelligence (AGI)**
 - 🎓 Bachelor's in Computer Science & Mathematics
-- 🏆 ICPC & IMO Competitor
+- 🏆 Former ICPC and IMO competitor
 - 📬 Reach me: `breo.space@gmail.com`
