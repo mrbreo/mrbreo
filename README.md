@@ -4,7 +4,7 @@ I’m deeply passionate about shaping the future of technology, where decentrali
 
 
 📌 About Me
-- 🤖 Contributed to **Roko Network** - Decentralized AI Robotics
+- 🤖 Contributed to **Roko Network** - Decentralized AI Robotics + Time Network
 - 🌐 Enthusiast and active supporter of **Bittensor Network** - Decentralized AI/ML Network
 - 🧠 Strong advocate and lifelong learner in the pursuit of **Artificial General Intelligence (AGI)**
 - 🎓 Bachelor's in Computer Science & Mathematics
